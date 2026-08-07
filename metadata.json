@@ -1,0 +1,6 @@
+{
+  "name": "DIGICOD ADS - Agence Media Buying & Publicité Digitale",
+  "description": "Site web professionnel et optimisé SEO pour DIGICOD ADS, agence de media buying, publicités Meta, TikTok, Google, Snapchat et vente de comptes Meta Ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
